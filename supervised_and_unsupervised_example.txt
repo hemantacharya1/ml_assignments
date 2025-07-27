@@ -1,0 +1,27 @@
+Supervised Learning:
+        the model learns from dataset which has labeled data with input features and corresponding labeled output.
+        in simple terms a model which learns from labeled data with example and there output. this learning is called
+        Supervised Learning.
+
+    Example of Supervised Learning:
+        Email spam detection via labeled data,
+        House price prediction via labeled data
+
+    Example of labeled dataset (for spam email detection):
+        Text,               Label
+        "Buy now!",         Spam
+        "Meeting at 3PM",   Not Spam
+
+Unsupervised Learning:
+        the model learns from patterns from data without labeled outputs
+        in simple terms a model which learns without any formatted/labeled examples, this learning is called Unsupervised Learning.
+
+    Example of Unsupervised Learning:
+        Customer Segmentation,
+        Anomaly Detection in Transactions
+
+    Example of Unsupervised dataset:
+        Text
+        "Buy now!"
+        "Meeting at 3PM"
+
