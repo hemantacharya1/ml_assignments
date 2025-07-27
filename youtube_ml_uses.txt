@@ -1,0 +1,22 @@
+1. YouTube is a popular video-sharing platform that uses machine learning extensively to personalize the user experience. 
+Its recommendation system analyzes user behavior and video data to suggest relevant videos, thereby improving engagement and retention.
+This system primarily uses supervised learning, with elements of reinforcement learning to continuously improve recommendations based on user feedback.
+
+
+2. Describe one specific feature of the app that likely uses Machine Learning.
+The recommendation system suggests personalized videos to users based on their previous interactions and preferences.
+
+3. What kind of data do you think the app collects to make that feature work?
+YouTube collects data such as videos watched, watch duration, likes, dislikes, comments, search queries, device and location info, user interactions with recommended videos, and video metadata (title, description, tags).
+
+4. Is the app using Supervised, Unsupervised, or Reinforcement Learning for that feature?
+It mainly uses Supervised Learning, with some aspects of Reinforcement Learning.
+
+5. Give a short explanation to support your answer.
+Supervised learning is used to train models on labeled historical user data to predict videos a user will like. Reinforcement learning helps the system adapt by learning from user interactions (e.g., clicks, watch time) to improve recommendations dynamically.
+
+6. How does this ML-powered feature help the app or the user?
+It enhances user engagement by personalizing content, which leads to longer watch times and better user retention. For YouTube, this increases advertising revenue and overall platform success.
+
+7. Mention any source or article you used for your research.
+Information was referenced from YouTube’s official engineering blogs and the article “How YouTube’s recommendation system works” on the YouTube Official Blog.
